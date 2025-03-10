@@ -2,7 +2,8 @@
 
 Movie app created in react native with modern features and UI
 
-- [ ] Set up styling
+- [x] Set up styling
+    - [x] Added NativeWind, Tailwind CSS, and React Components necessary for styling
 - [ ] Routing and Navigation
 - [ ] Customize App Title & Icon
 - [ ] Home Screeen UI
