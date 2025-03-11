@@ -4,10 +4,12 @@ Movie app created in react native with modern features and UI
 
 - [x] Set up styling
     - [x] Added NativeWind, Tailwind CSS, and React Components necessary for styling
-- [ ] Routing and Navigation
+- [x] Routing and Navigation
     - [x] Complete App routing
-        - Learn how to create the differne links on the app
-    - [ ] Complete app navigation
+        - Implemented a fully functional routing system
+    - [x] Complete app navigation
+        - Learned refactoring and using props on components
+        - Created a custom bottom navigation bar to switch between screens
 - [ ] Customize App Title & Icon
 - [ ] Home Screeen UI
 - [ ] TMDB API
